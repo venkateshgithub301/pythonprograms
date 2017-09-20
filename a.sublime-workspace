@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"list"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"no",
+				"None"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/venkatesh/Desktop/programs/binarysearch.py",
+		"/home/venkatesh/Desktop/programs/dictcount.py",
+		"/home/venkatesh/Desktop/programs/bublesort.py",
+		"/home/venkatesh/Desktop/programs/z.py",
+		"/home/venkatesh/Desktop/programs/sample.py",
+		"/home/venkatesh/Desktop/programs/b.py",
+		"/home/venkatesh/Desktop/programs/asss.py",
+		"/home/venkatesh/Desktop/programs/binary.py",
+		"/home/venkatesh/Desktop/programs/bubble.py",
+		"/home/venkatesh/Desktop/programs/fibonaci.py",
+		"/home/venkatesh/Desktop/programs/palindroms.py",
+		"/home/venkatesh/Desktop/programs/numberpalindrom.py",
+		"/home/venkatesh/Desktop/programs/stringpalindrom.py",
+		"/home/venkatesh/Desktop/programs/staticmethod.py",
+		"/home/venkatesh/Desktop/programs/p.py",
+		"/home/venkatesh/Desktop/programs/classvar.py",
+		"/home/venkatesh/Desktop/programs/classv.py",
+		"/home/venkatesh/Desktop/programs/classp.py",
+		"/home/venkatesh/Desktop/programs/fac.py",
+		"/home/venkatesh/Desktop/programs/file.py",
+		"/home/venkatesh/Desktop/programs/filter.py",
+		"/home/venkatesh/Desktop/programs/forloop.py",
+		"/home/venkatesh/Desktop/programs/prime .py",
+		"/home/venkatesh/Desktop/programs/primep.py",
+		"/home/venkatesh/Desktop/programs/dictfun.py",
+		"/home/venkatesh/Desktop/programs/tupleseq.py",
+		"/home/venkatesh/Desktop/programs/datetime.py",
+		"/home/venkatesh/Desktop/programs/continue.py",
+		"/home/venkatesh/Desktop/programs/passblock.py",
+		"/home/venkatesh/Desktop/programs/dicttionary.py",
+		"/home/venkatesh/Desktop/programs/classf.py",
+		"/home/venkatesh/Desktop/programs/inheritance.py",
+		"/home/venkatesh/Desktop/programs/function.py",
+		"/home/venkatesh/Desktop/programs/classa.py",
+		"/home/venkatesh/Desktop/programs/importclass.py",
+		"/home/venkatesh/Desktop/programs/methodoverloading.py",
+		"/home/venkatesh/Desktop/programs/nestedloop.py",
+		"/home/venkatesh/Desktop/programs/whileloop.py",
+		"/home/venkatesh/Desktop/programs/firstclass.py",
+		"/home/venkatesh/Desktop/programs/multil.py",
+		"/home/venkatesh/Desktop/programs/dictionary.py",
+		"/home/venkatesh/Desktop/programs/tuple.py",
+		"/home/venkatesh/Desktop/programs/sort.py",
+		"/home/venkatesh/Desktop/programs/listoperations.py",
+		"/home/venkatesh/Desktop/programs/add.py",
+		"/home/venkatesh/Desktop/programs/dic.py",
+		"/home/venkatesh/Desktop/programs/multiclass.py",
+		"/home/venkatesh/Desktop/programs/mulsample1.py",
+		"/home/venkatesh/Desktop/programs/mulsample.py",
+		"/home/venkatesh/Desktop/programs/classA.py",
+		"/home/venkatesh/Desktop/programs/Inheritance.py",
+		"/home/venkatesh/Desktop/programs/classcal.py",
+		"/home/venkatesh/Desktop/programs/list.py",
+		"/home/venkatesh/Desktop/programs/super.py",
+		"/home/venkatesh/Desktop/programs/super1.py",
+		"/home/venkatesh/Desktop/programs/inhe.py",
+		"/home/venkatesh/Desktop/programs/ma.py.py",
+		"/home/venkatesh/Desktop/programs/pass.py",
+		"/home/venkatesh/Desktop/programs/join.py",
+		"/home/venkatesh/Desktop/programs/copy.py",
+		"/home/venkatesh/Desktop/programs/meth.py",
+		"/home/venkatesh/Desktop/programs/cal.py",
+		"/home/venkatesh/Desktop/programs/class Foo.py",
+		"/home/venkatesh/Desktop/programs/class3.py",
+		"/home/venkatesh/Desktop/programs/TEl.py",
+		"/home/venkatesh/Desktop/programs/class2.py",
+		"/home/venkatesh/Desktop/programs/phone.py",
+		"/home/venkatesh/Desktop/programs/class1.py",
+		"/home/venkatesh/Desktop/programs/ remove.py",
+		"/home/venkatesh/Desktop/programs/class.py",
+		"/home/venkatesh/Desktop/programs/add ph.py.-",
+		"/home/venkatesh/Desktop/programs/addc.py",
+		"/home/venkatesh/Desktop/programs/loc.py",
+		"/home/venkatesh/Desktop/programs/div.py",
+		"/home/venkatesh/Desktop/programs/not.py",
+		"/home/venkatesh/Desktop/programs/s.py",
+		"/home/venkatesh/Desktop/programs/strfun.py",
+		"/home/venkatesh/Desktop/programs/text.py",
+		"/home/venkatesh/Desktop/programs/d.py",
+		"/home/venkatesh/Desktop/programs/f.py",
+		"/home/venkatesh/Desktop/programs/reduce.py",
+		"/home/venkatesh/Desktop/programs/dict.py",
+		"/home/venkatesh/Desktop/programs/zip.py",
+		"/home/venkatesh/Desktop/programs/errorhandling.py",
+		"/home/venkatesh/Desktop/programs/l.py",
+		"/home/venkatesh/Desktop/programs/ import my_decorator.py",
+		"/home/venkatesh/Desktop/listcompresion.py",
+		"/home/venkatesh/Desktop/diccom.py",
+		"/home/venkatesh/Desktop/setc.py",
+		"/home/venkatesh/Desktop/generator.py",
+		"/home/venkatesh/Desktop/n=[map.py",
+		"/home/venkatesh/Desktop/mylist.py",
+		"/home/venkatesh/Desktop/a.py",
+		"/home/venkatesh/Desktop/parent.py",
+		"/home/venkatesh/Desktop/odd.py",
+		"/home/venkatesh/Desktop/list.py",
+		"/home/venkatesh/Desktop/decorator1.py",
+		"/home/venkatesh/Desktop/d.py",
+		"/home/venkatesh/Desktop/fac.py",
+		"/home/venkatesh/Desktop/even.py",
+		"/home/venkatesh/Desktop/decorator.py",
+		"/home/venkatesh/Desktop/ import my_decorator.py",
+		"/home/venkatesh/Desktop/function.py",
+		"/home/venkatesh/Desktop/e.py",
+		"/media/venkatesh/5E94ECB594EC90B7/python programs/v1.py",
+		"/media/venkatesh/5E94ECB594EC90B7/python programs/b.py",
+		"/media/venkatesh/5E94ECB594EC90B7/python programs/c.py",
+		"/home/venkatesh/Desktop/tes.py",
+		"/media/venkatesh/5E94ECB594EC90B7/python programs/v.py",
+		"/home/venkatesh/Desktop/test.py",
+		"/home/venkatesh/text.py",
+		"/home/venkatesh/test.txt",
+		"/home/venkatesh/Desktop/import pudb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "a.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"programs/ import my_decorator.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

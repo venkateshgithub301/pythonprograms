@@ -1,0 +1,16 @@
+#Add and Remove contacts from the phonebook.-
+phonebook = {
+	"Jai" : 938477566,
+	"Jui" : 938377264,
+	"sai" : 947662781
+}
+ 
+# write your code here
+phonebook["rui"] = 938273443
+del phonebook["Jai"]
+ 
+# testing code
+if "rui" in phonebook:
+	print("rui is listed in the phonebook.")
+if "Jai" not in phonebook:
+	print("Jai is not listed in the phonebook.")
